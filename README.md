@@ -4,7 +4,7 @@
 
 ## 📖 My Study State
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchane&hide=jupyter%20notebook&layout=compact" /> <br/>
-
+![yongchane's Github Stats](https://github-readme-stats.vercel.app/api?username=yongchane&show_icons=true)
 ## :wrench: Tool/Framework Stack
 <table>
     <tr>
