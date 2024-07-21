@@ -35,8 +35,7 @@
           <td align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;"></br>
-      
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;">
      </td>
    </tr>
    
