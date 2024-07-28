@@ -42,6 +42,8 @@
       
 </table>
 
+## 📖 My blog
+<a href="[URL](https://velog.io/@yongchan/posts)">Blog</a>
 <!--
 **yongchane/yongchane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
