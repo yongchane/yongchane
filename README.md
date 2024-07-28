@@ -43,7 +43,9 @@
 </table>
 
 ## 📖 My blog
-<a href="[URL](https://velog.io/@yongchan/posts)">Blog</a>
+<a href="(https://velog.io/@yongchan/posts)">
+  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+</a>
 <!--
 **yongchane/yongchane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
