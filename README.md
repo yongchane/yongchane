@@ -30,12 +30,15 @@
  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height: 30px; margin: 5px;"></br>
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;"></br>
+       <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white " style="height: 30px; margin: 5px;" />
      </td>
           <td align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;">
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;"><br/>
+     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"  style="height: 30px; margin: 5px;"/><br/>
+     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"  style="height: 30px; margin: 5px;"/>
      </td>
    </tr>
    
