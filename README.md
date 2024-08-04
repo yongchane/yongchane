@@ -3,7 +3,8 @@
 저는 프론트 엔드 개발자를 꿈꾸는 개발자입니다
 
 ## 📖 My Study State
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchane&hide=jupyter%20notebook&layout=compact" /> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchane"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yongchane"/>
 
 ## :wrench: Tool/Framework Stack
 <table>
