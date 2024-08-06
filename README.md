@@ -5,6 +5,8 @@
 ## 📖 My Study State
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchane"/>
 <img src="https://github-readme-stats.vercel.app/api?username=yongchane"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vaga0330"/>
+
 
 ## :wrench: Tool/Framework Stack
 <table>
