@@ -44,10 +44,9 @@
       <br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="height: 30px; margin: 5px;"><br/>
       <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;"><br/>
-     <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"  style="height: 30px; margin: 5px;"/><br/>
-     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"  style="height: 30px; margin: 5px;"/>
-     </td>
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;">
+  
+   
    </tr>
    
       
