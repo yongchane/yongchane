@@ -15,6 +15,7 @@
     <tr>
     <td align="center"><strong>Basic Stack</strong>
     <td align="center"><strong>FrontEnd Stack</strong>
+    <td align="center"><strong>FrontEnd Stack(Studying)</strong>
        <td align="center"><strong>FrontEnd Library</strong></td>
        <td align="center"><strong>More..</strong></td>
     </td>
@@ -29,8 +30,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="height: 30px; margin: 5px;"></br>
      </td>
      <td align="center">
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black" style="height: 30px; margin: 5px;"></br>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" style="height: 30px; margin: 5px;">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black" style="height: 30px; margin: 5px;">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" style="height: 30px; margin: 5px;"></br>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" style="height: 30px; margin: 5px;">
      </td>
           <td align="center">
  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
