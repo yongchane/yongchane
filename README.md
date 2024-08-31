@@ -1,4 +1,4 @@
-## 👋 Hi, welcome my github
+## 👋 Hi, welcome to my github
 안녕하세요 제 이름은 현용찬입니다 <br/>
 저는 프론트 엔드 개발자를 꿈꾸는 개발자입니다
 
