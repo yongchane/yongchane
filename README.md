@@ -39,14 +39,12 @@
           <td align="center">
  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height: 30px; margin: 5px;"></br>
       <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;"></br>
-       <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white " style="height: 30px; margin: 5px;" />
      </td>
           <td align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="height: 30px; margin: 5px;">
+
       <br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="height: 30px; margin: 5px;"><br/>
       <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
