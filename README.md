@@ -44,8 +44,6 @@
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;"></br>
      </td>
           <td align="center">
-
-      <br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="height: 30px; margin: 5px;"><br/>
       <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;">
