@@ -31,23 +31,26 @@
      </td>
      <td align="center">
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black" style="height: 30px; margin: 5px;">
-</td>
-<td align="center">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" style="height: 30px; margin: 5px;"></br>
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" style="height: 30px; margin: 5px;"></br>
+</td>
+<td align="center">
+
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height: 30px; margin: 5px;">
      </td>
           <td align="center">
  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
       <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="height: 30px; margin: 5px;">              
       <br>
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;"></br>
      </td>
           <td align="center">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="height: 30px; margin: 5px;"><br/>
       <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="height: 30px; margin: 5px;">
+     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height: 30px; margin: 5px;">
+     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 30px; margin: 5px;">
   
    
    </tr>
