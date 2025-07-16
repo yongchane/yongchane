@@ -53,8 +53,7 @@
       <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height: 30px; margin: 5px;">
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 30px; margin: 5px;">
-              </ td>
- <td align="center>
+              </ td> <td align="center>
      
      
 <img src="https://img.shields.io/badge/claude cli-D97757?style=for-the-badge&logo=claude&logoColor=white" style="height: 30px; margin: 5px;"><br/>
