@@ -13,11 +13,12 @@
 ## :wrench: Tool/Framework Stack
 <table>
     <tr>
-    <td align="center"><strong>Basic Stack</strong>
-    <td align="center"><strong>FrontEnd Stack</strong>
-    <td align="center"><strong>FrontEnd Stack(Studying)</strong>
-       <td align="center"><strong>FrontEnd Library</strong></td>
-       <td align="center"><strong>More..</strong></td>
+    <td align="center"><strong>Basic Stack</strong></td>
+    <td align="center"><strong>FrontEnd Stack</strong></td>
+    <td align="center"><strong>Studying</strong>
+    <td align="center"><strong>FrontEnd Library</strong></td>
+    <td align="center"><strong>More..</strong></td>
+    <td align="center"><strong>AI Tools</strong></td>
     </td>
     </tr>
  
@@ -52,17 +53,20 @@
       <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height: 30px; margin: 5px;">
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 30px; margin: 5px;">
-  
-   
+              </ td>
+ <td align="center>
+     
+     
+<img src="https://img.shields.io/badge/claude cli-D97757?style=for-the-badge&logo=claude&logoColor=white" style="height: 30px; margin: 5px;"><br/>
+<img src="https://img.shields.io/badge/gemini cli-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" style="height: 30px; margin: 5px;">
+  </td>
    </tr>
+   
    
       
 </table>
 
-## 📖 My blog
-<a href="https://velog.io/@yongchan/posts">
-  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white" style="height: 30px; margin: 5px;"/>
-</a>
+
 <!--
 **yongchane/yongchane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
