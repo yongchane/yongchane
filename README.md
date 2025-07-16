@@ -37,6 +37,7 @@
 <td align="center">
 
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height: 30px; margin: 5px;">
+ <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="height: 30px; margin: 5px;">
      </td>
           <td align="center">
  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
