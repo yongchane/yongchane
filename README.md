@@ -2,7 +2,8 @@
 안녕하세요 제 이름은 현용찬입니다 <br/>
 저는 프론트 엔드 개발자를 꿈꾸는 개발자입니다
 
-## 📖 My Study State
+
+<!-- ## 📖 My Study State 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchane"/>
 <img src="https://github-readme-stats.vercel.app/api?username=yongchane"/>
 
