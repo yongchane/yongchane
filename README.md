@@ -1,85 +1,34 @@
-## 👋 Hi, welcome to my github
-안녕하세요 제 이름은 현용찬입니다 <br/>
-저는 프론트 엔드 개발자를 꿈꾸는 개발자입니다
+## 👋 안녕하세요, 현용찬입니다
+
+프론트엔드 개발을 기반으로 사용자와 업무의 문제를 해결하고,
+서비스와 AI를 연결하는 **AX Engineer**를 목표로 성장하고 있습니다.
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,reactnative" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
+
+### AI
+
+<img src="https://skillicons.dev/icons?i=python" />
 
 
-<!-- ## 📖 My Study State 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchane"/>
-<img src="https://github-readme-stats.vercel.app/api?username=yongchane"/>
+### Infrastructure
 
-<!--## 📖 BAEKJOON-->
-<!--<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vaga0330"/>-->
+<img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes" />
 
+### Tools
 
-## :wrench: Tool/Framework Stack
-<table>
-    <tr>
-    <td align="center"><strong>Basic Stack</strong></td>
-    <td align="center"><strong>FrontEnd Stack</strong></td>
-    <td align="center"><strong>Studying</strong>
-    <td align="center"><strong>FrontEnd Library</strong></td>
-    <td align="center"><strong>More..</strong></td>
-    <td align="center"><strong>AI Tools</strong></td>
-    </td>
-    </tr>
- 
-   <tr>
-     <td align="center">
-       
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="height: 30px; margin: 5px;"></br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="height: 30px; margin: 5px;"></br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="height: 30px; margin: 5px;"></br>
-     </td>
-     <td align="center">
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black" style="height: 30px; margin: 5px;">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" style="height: 30px; margin: 5px;"></br>
- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" style="height: 30px; margin: 5px;"></br>
-</td>
-<td align="center">
-
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height: 30px; margin: 5px;">
- <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="height: 30px; margin: 5px;">
-     </td>
-          <td align="center">
- <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
-      <br>
-      <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" style="height: 30px; margin: 5px;">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="height: 30px; margin: 5px;">              
-      <br>
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;"></br>
-     </td>
-          <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" style="height: 30px; margin: 5px;"><br/>
-      <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" style="height: 30px; margin: 5px;"><br/>
-     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height: 30px; margin: 5px;">
-     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="height: 30px; margin: 5px;">
-              </ td> 
-<td align="center>     
-<img src="https://img.shields.io/badge/claude cli-D97757?style=for-the-badge&logo=claude&logoColor=white" style="height: 30px; margin: 5px;"><br/>
-    <img src="https://img.shields.io/badge/Claude_CLI-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/gemini cli-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" style="height: 30px; margin: 5px;">
-  </td>
-   </tr>
-
-   
-   
-      
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
 
 
-<!--
-**yongchane/yongchane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/yongchane">
+  <img src="https://img.shields.io/badge/GitHub-yongchane-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
